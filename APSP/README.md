@@ -5,5 +5,5 @@ https://www.geeksforgeeks.org/implementation-of-johnsons-algorithm-for-all-pairs
 
 | APSP | Negative | Non-Negative |
 | --- | --- | --- |
-| Sparse | johnson | Dijkstra |
-| Dense | floyd warshall  Matrix Multiplication |
+| **Sparse** | johnson | Dijkstra |
+| **Dense** | floyd warshall / Matrix Multiplication | |
